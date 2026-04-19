@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MusicDistributor.Api/MusicDistributor.Api.csproj" />
+  <Project Path="MusicDistributor.Core/MusicDistributor.Core.csproj" />
+  <Project Path="MusicDistributor.Tests/MusicDistributor.Tests.csproj" />
+</Solution>
