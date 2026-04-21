@@ -14,6 +14,7 @@ builder.Services.AddSingleton<IDbContext, DbContext>();
 
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 builder.Services.AddScoped<IGeneroMusicalRepository, GeneroMusicalRepository>();
+builder.Services.AddScoped<IPistaRepository, PistaRepository>();
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
