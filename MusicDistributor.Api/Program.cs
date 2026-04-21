@@ -16,6 +16,7 @@ builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 builder.Services.AddScoped<IGeneroMusicalRepository, GeneroMusicalRepository>();
 builder.Services.AddScoped<IPistaRepository, PistaRepository>();
 builder.Services.AddScoped<IInventarioRepository, InventarioRepository>();
+builder.Services.AddScoped<IVentaRepository, VentaRepository>();
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
