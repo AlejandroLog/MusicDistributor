@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jaimr\\Documents\\Proyecto\\MusicDistributor\\musicDistributor.API\\MusicDistributor.Api.csproj": {}
+    "C:\\Users\\Jaimr\\Documents\\Proyecto\\MusicDistributor\\MusicDistributor.Api\\MusicDistributor.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jaimr\\Documents\\Proyecto\\MusicDistributor\\musicDistributor.API\\MusicDistributor.Api.csproj": {
+    "C:\\Users\\Jaimr\\Documents\\Proyecto\\MusicDistributor\\MusicDistributor.Api\\MusicDistributor.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jaimr\\Documents\\Proyecto\\MusicDistributor\\musicDistributor.API\\MusicDistributor.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Jaimr\\Documents\\Proyecto\\MusicDistributor\\MusicDistributor.Api\\MusicDistributor.Api.csproj",
         "projectName": "MusicDistributor.Api",
-        "projectPath": "C:\\Users\\Jaimr\\Documents\\Proyecto\\MusicDistributor\\musicDistributor.API\\MusicDistributor.Api.csproj",
+        "projectPath": "C:\\Users\\Jaimr\\Documents\\Proyecto\\MusicDistributor\\MusicDistributor.Api\\MusicDistributor.Api.csproj",
         "packagesPath": "C:\\Users\\Jaimr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jaimr\\Documents\\Proyecto\\MusicDistributor\\musicDistributor.API\\obj\\",
+        "outputPath": "C:\\Users\\Jaimr\\Documents\\Proyecto\\MusicDistributor\\MusicDistributor.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

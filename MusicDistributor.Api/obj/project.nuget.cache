@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "azY2SsblWDc=",
+  "dgSpecHash": "S+OWVotT9K0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jaimr\\Documents\\Proyecto\\MusicDistributor\\musicDistributor.API\\MusicDistributor.Api.csproj",
+  "projectFilePath": "C:\\Users\\Jaimr\\Documents\\Proyecto\\MusicDistributor\\MusicDistributor.Api\\MusicDistributor.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jaimr\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\Jaimr\\.nuget\\packages\\dapper\\2.1.72\\dapper.2.1.72.nupkg.sha512",
