@@ -1,3 +1,15 @@
+C:\Users\Jaimr\Documents\Proyecto\MusicDistributor\MusicDistributor.Core\bin\Debug\net10.0\MusicDistributor.Core.deps.json
+C:\Users\Jaimr\Documents\Proyecto\MusicDistributor\MusicDistributor.Core\bin\Debug\net10.0\MusicDistributor.Core.dll
+C:\Users\Jaimr\Documents\Proyecto\MusicDistributor\MusicDistributor.Core\bin\Debug\net10.0\MusicDistributor.Core.pdb
+C:\Users\Jaimr\Documents\Proyecto\MusicDistributor\MusicDistributor.Core\obj\Debug\net10.0\MusicDistributor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaimr\Documents\Proyecto\MusicDistributor\MusicDistributor.Core\obj\Debug\net10.0\MusicDistributor.Core.AssemblyInfoInputs.cache
+C:\Users\Jaimr\Documents\Proyecto\MusicDistributor\MusicDistributor.Core\obj\Debug\net10.0\MusicDistributor.Core.AssemblyInfo.cs
+C:\Users\Jaimr\Documents\Proyecto\MusicDistributor\MusicDistributor.Core\obj\Debug\net10.0\MusicDistributor.Core.csproj.CoreCompileInputs.cache
+C:\Users\Jaimr\Documents\Proyecto\MusicDistributor\MusicDistributor.Core\obj\Debug\net10.0\MusicDistributor.Core.sourcelink.json
+C:\Users\Jaimr\Documents\Proyecto\MusicDistributor\MusicDistributor.Core\obj\Debug\net10.0\MusicDistributor.Core.dll
+C:\Users\Jaimr\Documents\Proyecto\MusicDistributor\MusicDistributor.Core\obj\Debug\net10.0\refint\MusicDistributor.Core.dll
+C:\Users\Jaimr\Documents\Proyecto\MusicDistributor\MusicDistributor.Core\obj\Debug\net10.0\MusicDistributor.Core.pdb
+C:\Users\Jaimr\Documents\Proyecto\MusicDistributor\MusicDistributor.Core\obj\Debug\net10.0\ref\MusicDistributor.Core.dll
 C:\Users\samue\Downloads\MusicDistributor\MusicDistributor.Core\bin\Debug\net10.0\MusicDistributor.Core.deps.json
 C:\Users\samue\Downloads\MusicDistributor\MusicDistributor.Core\bin\Debug\net10.0\MusicDistributor.Core.dll
 C:\Users\samue\Downloads\MusicDistributor\MusicDistributor.Core\bin\Debug\net10.0\MusicDistributor.Core.pdb
@@ -5,8 +17,8 @@ C:\Users\samue\Downloads\MusicDistributor\MusicDistributor.Core\obj\Debug\net10.
 C:\Users\samue\Downloads\MusicDistributor\MusicDistributor.Core\obj\Debug\net10.0\MusicDistributor.Core.AssemblyInfoInputs.cache
 C:\Users\samue\Downloads\MusicDistributor\MusicDistributor.Core\obj\Debug\net10.0\MusicDistributor.Core.AssemblyInfo.cs
 C:\Users\samue\Downloads\MusicDistributor\MusicDistributor.Core\obj\Debug\net10.0\MusicDistributor.Core.csproj.CoreCompileInputs.cache
+C:\Users\samue\Downloads\MusicDistributor\MusicDistributor.Core\obj\Debug\net10.0\MusicDistributor.Core.sourcelink.json
 C:\Users\samue\Downloads\MusicDistributor\MusicDistributor.Core\obj\Debug\net10.0\MusicDistributor.Core.dll
 C:\Users\samue\Downloads\MusicDistributor\MusicDistributor.Core\obj\Debug\net10.0\refint\MusicDistributor.Core.dll
 C:\Users\samue\Downloads\MusicDistributor\MusicDistributor.Core\obj\Debug\net10.0\MusicDistributor.Core.pdb
 C:\Users\samue\Downloads\MusicDistributor\MusicDistributor.Core\obj\Debug\net10.0\ref\MusicDistributor.Core.dll
-C:\Users\samue\Downloads\MusicDistributor\MusicDistributor.Core\obj\Debug\net10.0\MusicDistributor.Core.sourcelink.json

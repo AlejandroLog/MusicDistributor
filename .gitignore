@@ -1,0 +1,17 @@
+# Binarios y Objetos
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+
+# Configuraciones de usuario
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de caché y logs
+*.cache
+*.pdb
+*.dll
+*.exe
+*.log
